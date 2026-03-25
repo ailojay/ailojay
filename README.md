@@ -14,7 +14,7 @@ My focus: making security automatic, not manual.
 
 ## Featured project — PERP
 
-**Proactive Enterprise Resilience Platform** · [View Repository →](https://github.com/ailojay/aws-security-automation)
+**Proactive Enterprise Resilience Platform** · [View Repository →](https://github.com/ailojay/Perp)
 
 A multi-account AWS security platform simulating a production enterprise security posture. Built and operated as sole architect.
 
@@ -31,7 +31,7 @@ A multi-account AWS security platform simulating a production enterprise securit
 
 ## Other projects
 
-**PolicyBot — Terraform IaC Security Scanner** · [View Repository →](https://github.com/ailojay/terraform-aws-secure-modules)  
+**PolicyBot — Terraform IaC Security Scanner** · [View Repository →](https://github.com/ailojay/Policybot)  
 Slack-integrated scanner processing 200+ Terraform files/week via GitHub Actions. Blocked 30+ high-risk changes, detected 150+ CIS benchmark violations. Reduced security debt by 70%.
 
 **Cloud Cost Security Platform**  
